@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ConstructiveNews/pushme#readme",
   "dependencies": {
+    "@capacitor/android": "^2.4.2",
     "@capacitor/cli": "^2.4.2",
     "@capacitor/core": "^2.4.2"
   }

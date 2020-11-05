@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">pushme</string>
+    <string name="title_activity_main">pushme</string>
+    <string name="package_name">org.squirrelnews.pushme</string>
+    <string name="custom_url_scheme">org.squirrelnews.pushme</string>
+</resources>
